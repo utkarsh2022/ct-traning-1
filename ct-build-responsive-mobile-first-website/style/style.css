@@ -54,7 +54,7 @@ main {
 }
 
 #landing-image {
-  background: url("/assets/image/photo-bg.jpg");
+  background: url("../assets/image/photo-bg.jpg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
